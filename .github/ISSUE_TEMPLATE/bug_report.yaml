@@ -2,7 +2,7 @@ name: 🐛Bug Report
 description: File a bug report here
 title: "[BUG]: "
 labels: ["bug"]
-assignees: ["AnishDe12020"]
+assignees: ["docktermj"]
 body:
   - type: markdown
     attributes:
@@ -30,6 +30,7 @@ body:
         4. See error
     validations:
       required: true
+
   - type: textarea
     id: additional-information
     attributes:
