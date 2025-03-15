@@ -1,2 +1,1 @@
 # .github
-Chronocosm configuration repository
